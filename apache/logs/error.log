@@ -1,0 +1,229 @@
+[Tue Nov 08 16:48:02.356016 2022] [mpm_winnt:notice] [pid 2944:tid 352] AH00455: Apache/2.4.54 (Win64) configured -- resuming normal operations
+[Tue Nov 08 16:48:02.357049 2022] [mpm_winnt:notice] [pid 2944:tid 352] AH00456: Apache Lounge VS16 Server built: Nov  2 2022 10:09:33
+[Tue Nov 08 16:48:02.357049 2022] [core:notice] [pid 2944:tid 352] AH00094: Command line: 'httpd -d C:/apache'
+[Tue Nov 08 16:48:02.360006 2022] [mpm_winnt:notice] [pid 2944:tid 352] AH00418: Parent: Created child process 18032
+Apache server interrupted...
+022] [mpm_winnt:notice] [pid 18032:tid 344] AH00354: Child: Starting 64 worker threads.
+[Tue Nov 08 16:49:27.846980 2022] [mpm_winnt:notice] [pid 2944:tid 352] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+Apache server interrupted...
+[Tue Nov 08 16:49:57.867420 2022] [mpm_winnt:notice] [pid 2944:tid 352] AH00431: Parent: Forcing termination of child process 18032
+[Tue Nov 08 17:52:07.004226 2022] [mpm_winnt:notice] [pid 19644:tid 328] AH00455: Apache/2.4.54 (Win64) PHP/8.1.12 configured -- resuming normal operations
+[Tue Nov 08 17:52:07.005225 2022] [mpm_winnt:notice] [pid 19644:tid 328] AH00456: Apache Lounge VS16 Server built: Nov  2 2022 10:09:33
+[Tue Nov 08 17:52:07.005225 2022] [core:notice] [pid 19644:tid 328] AH00094: Command line: 'httpd -d C:/apache'
+[Tue Nov 08 17:52:07.008109 2022] [mpm_winnt:notice] [pid 19644:tid 328] AH00418: Parent: Created child process 12808
+Apache server interrupted...
+022] [mpm_winnt:notice] [pid 12808:tid 328] AH00354: Child: Starting 64 worker threads.
+[Tue Nov 08 17:52:38.222318 2022] [mpm_winnt:notice] [pid 19644:tid 328] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Nov 08 17:53:08.231617 2022] [mpm_winnt:notice] [pid 19644:tid 328] AH00431: Parent: Forcing termination of child process 12808
+[Tue Nov 08 17:56:35.657530 2022] [mpm_winnt:notice] [pid 10752:tid 372] AH00455: Apache/2.4.54 (Win64) PHP/8.1.12 configured -- resuming normal operations
+[Tue Nov 08 17:56:35.657530 2022] [mpm_winnt:notice] [pid 10752:tid 372] AH00456: Apache Lounge VS16 Server built: Nov  2 2022 10:09:33
+[Tue Nov 08 17:56:35.657530 2022] [core:notice] [pid 10752:tid 372] AH00094: Command line: 'httpd -d C:/apache'
+[Tue Nov 08 17:56:35.660864 2022] [mpm_winnt:notice] [pid 10752:tid 372] AH00418: Parent: Created child process 17996
+Apache server interrupted...
+022] [mpm_winnt:notice] [pid 17996:tid 340] AH00354: Child: Starting 64 worker threads.
+[Tue Nov 08 17:56:54.378650 2022] [mpm_winnt:notice] [pid 10752:tid 372] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Nov 08 17:57:24.385561 2022] [mpm_winnt:notice] [pid 10752:tid 372] AH00431: Parent: Forcing termination of child process 17996
+[Tue Nov 08 18:04:27.515085 2022] [mpm_winnt:notice] [pid 16824:tid 348] AH00455: Apache/2.4.54 (Win64) PHP/8.1.12 configured -- resuming normal operations
+[Tue Nov 08 18:04:27.515085 2022] [mpm_winnt:notice] [pid 16824:tid 348] AH00456: Apache Lounge VS16 Server built: Nov  2 2022 10:09:33
+[Tue Nov 08 18:04:27.515085 2022] [core:notice] [pid 16824:tid 348] AH00094: Command line: 'httpd -d C:/apache'
+[Tue Nov 08 18:04:27.518217 2022] [mpm_winnt:notice] [pid 16824:tid 348] AH00418: Parent: Created child process 11432
+Apache server interrupted...
+022] [mpm_winnt:notice] [pid 11432:tid 336] AH00354: Child: Starting 64 worker threads.
+[Tue Nov 08 18:30:13.433713 2022] [php:error] [pid 11432:tid 1116] [client ::1:50501] script 'C:/apache/htdocs/index.html' not found or unable to stat
+[Tue Nov 08 18:32:36.988861 2022] [mpm_winnt:notice] [pid 16824:tid 348] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Nov 08 18:32:39.001197 2022] [mpm_winnt:notice] [pid 11432:tid 336] AH00364: Child: All worker threads have exited.
+[Tue Nov 08 18:32:39.027560 2022] [mpm_winnt:notice] [pid 16824:tid 348] AH00430: Parent: Child process 11432 exited successfully.
+[Tue Nov 08 18:32:47.087684 2022] [mpm_winnt:notice] [pid 18100:tid 392] AH00455: Apache/2.4.54 (Win64) PHP/8.1.12 configured -- resuming normal operations
+[Tue Nov 08 18:32:47.087684 2022] [mpm_winnt:notice] [pid 18100:tid 392] AH00456: Apache Lounge VS16 Server built: Nov  2 2022 10:09:33
+[Tue Nov 08 18:32:47.087684 2022] [core:notice] [pid 18100:tid 392] AH00094: Command line: 'httpd -d C:/apache'
+[Tue Nov 08 18:32:47.090708 2022] [mpm_winnt:notice] [pid 18100:tid 392] AH00418: Parent: Created child process 19164
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 19164:tid 336] AH00354: Child: Starting 64 worker threads.
+[Tue Nov 08 18:35:22.980528 2022] [mpm_winnt:notice] [pid 18100:tid 392] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Nov 08 18:35:57.401045 2022] [mpm_winnt:notice] [pid 19164:tid 336] AH00364: Child: All worker threads have exited.
+[Tue Nov 08 18:37:20.087613 2022] [core:warn] [pid 9104:tid 168] AH00098: pid file C:/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Nov 08 18:37:20.113958 2022] [mpm_winnt:notice] [pid 9104:tid 168] AH00455: Apache/2.4.54 (Win64) PHP/8.1.12 configured -- resuming normal operations
+[Tue Nov 08 18:37:20.113958 2022] [mpm_winnt:notice] [pid 9104:tid 168] AH00456: Apache Lounge VS16 Server built: Nov  2 2022 10:09:33
+[Tue Nov 08 18:37:20.113958 2022] [core:notice] [pid 9104:tid 168] AH00094: Command line: 'httpd -d C:/apache'
+[Tue Nov 08 18:37:20.117858 2022] [mpm_winnt:notice] [pid 9104:tid 168] AH00418: Parent: Created child process 10700
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 10700:tid 336] AH00354: Child: Starting 64 worker threads.
+[Tue Nov 08 18:41:27.108174 2022] [mpm_winnt:notice] [pid 9104:tid 168] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Nov 08 18:41:29.131145 2022] [mpm_winnt:notice] [pid 10700:tid 336] AH00364: Child: All worker threads have exited.
+[Tue Nov 08 18:41:29.157896 2022] [mpm_winnt:notice] [pid 9104:tid 168] AH00430: Parent: Child process 10700 exited successfully.
+[Tue Nov 08 19:01:07.388834 2022] [mpm_winnt:notice] [pid 15768:tid 336] AH00455: Apache/2.4.54 (Win64) PHP/8.1.12 configured -- resuming normal operations
+[Tue Nov 08 19:01:07.388834 2022] [mpm_winnt:notice] [pid 15768:tid 336] AH00456: Apache Lounge VS16 Server built: Nov  2 2022 10:09:33
+[Tue Nov 08 19:01:07.388834 2022] [core:notice] [pid 15768:tid 336] AH00094: Command line: 'httpd -d C:/apache'
+[Tue Nov 08 19:01:07.391787 2022] [mpm_winnt:notice] [pid 15768:tid 336] AH00418: Parent: Created child process 16820
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 16820:tid 324] AH00354: Child: Starting 64 worker threads.
+[Tue Nov 08 19:05:05.751953 2022] [php:error] [pid 16820:tid 1116] [client ::1:51060] script 'C:/apache/htdocs/jquery_sample1.html' not found or unable to stat
+[Tue Nov 08 19:08:16.428122 2022] [mpm_winnt:notice] [pid 15768:tid 336] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Nov 08 19:08:50.997981 2022] [mpm_winnt:notice] [pid 16820:tid 324] AH00362: Child: Waiting 30 more seconds for 1 worker threads to finish.
+[Tue Nov 08 19:09:06.476301 2022] [mpm_winnt:notice] [pid 16820:tid 324] AH00364: Child: All worker threads have exited.
+[Tue Nov 08 19:12:13.017011 2022] [core:warn] [pid 15868:tid 352] AH00098: pid file C:/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Nov 08 19:12:13.042944 2022] [mpm_winnt:notice] [pid 15868:tid 352] AH00455: Apache/2.4.54 (Win64) PHP/8.1.12 configured -- resuming normal operations
+[Tue Nov 08 19:12:13.042944 2022] [mpm_winnt:notice] [pid 15868:tid 352] AH00456: Apache Lounge VS16 Server built: Nov  2 2022 10:09:33
+[Tue Nov 08 19:12:13.042944 2022] [core:notice] [pid 15868:tid 352] AH00094: Command line: 'httpd -d C:/apache'
+[Tue Nov 08 19:12:13.046413 2022] [mpm_winnt:notice] [pid 15868:tid 352] AH00418: Parent: Created child process 14500
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 14500:tid 340] AH00354: Child: Starting 64 worker threads.
+[Tue Nov 08 19:18:33.847124 2022] [mpm_winnt:notice] [pid 15868:tid 352] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Nov 08 19:18:35.866573 2022] [mpm_winnt:notice] [pid 14500:tid 340] AH00364: Child: All worker threads have exited.
+[Tue Nov 08 19:18:35.909987 2022] [mpm_winnt:notice] [pid 15868:tid 352] AH00430: Parent: Child process 14500 exited successfully.
+[Wed Nov 09 15:32:52.205392 2022] [mpm_winnt:notice] [pid 17272:tid 344] AH00455: Apache/2.4.54 (Win64) PHP/8.1.12 configured -- resuming normal operations
+[Wed Nov 09 15:32:52.213032 2022] [mpm_winnt:notice] [pid 17272:tid 344] AH00456: Apache Lounge VS16 Server built: Nov  2 2022 10:09:33
+[Wed Nov 09 15:32:52.213032 2022] [core:notice] [pid 17272:tid 344] AH00094: Command line: 'httpd -d C:/apache'
+[Wed Nov 09 15:32:52.219279 2022] [mpm_winnt:notice] [pid 17272:tid 344] AH00418: Parent: Created child process 14848
+Apache server interrupted...
+022] [mpm_winnt:notice] [pid 14848:tid 352] AH00354: Child: Starting 64 worker threads.
+[Wed Nov 09 15:36:19.960664 2022] [php:error] [pid 14848:tid 1120] [client ::1:50724] PHP Parse error:  syntax error, unexpected token ";", expecting variable or "{" or "$" in C:\\apache\\htdocs\\mydir\\confirm.php on line 79, referer: http://localhost/mydir/form.php
+[Wed Nov 09 15:37:03.944213 2022] [php:error] [pid 14848:tid 1116] [client ::1:50725] script 'C:/apache/htdocs/mydir/index.php' not found or unable to stat
+[Wed Nov 09 15:37:13.158520 2022] [php:error] [pid 14848:tid 1120] [client ::1:50729] script 'C:/apache/htdocs/mydir/index.php' not found or unable to stat
+[Wed Nov 09 15:37:26.913483 2022] [php:error] [pid 14848:tid 1116] [client ::1:50730] PHP Parse error:  syntax error, unexpected token ";", expecting variable or "{" or "$" in C:\\apache\\htdocs\\mydir\\confirm.php on line 79
+[Wed Nov 09 15:37:33.412553 2022] [mpm_winnt:notice] [pid 17272:tid 344] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Nov 09 15:37:35.429822 2022] [mpm_winnt:notice] [pid 14848:tid 352] AH00364: Child: All worker threads have exited.
+[Wed Nov 09 15:37:35.488330 2022] [mpm_winnt:notice] [pid 17272:tid 344] AH00430: Parent: Child process 14848 exited successfully.
+[Mon Nov 14 13:25:20.060174 2022] [mpm_winnt:notice] [pid 2556:tid 340] AH00455: Apache/2.4.54 (Win64) PHP/8.1.12 configured -- resuming normal operations
+[Mon Nov 14 13:25:20.065171 2022] [mpm_winnt:notice] [pid 2556:tid 340] AH00456: Apache Lounge VS16 Server built: Nov  2 2022 10:09:33
+[Mon Nov 14 13:25:20.065171 2022] [core:notice] [pid 2556:tid 340] AH00094: Command line: 'httpd -d C:/apache'
+[Mon Nov 14 13:25:20.070186 2022] [mpm_winnt:notice] [pid 2556:tid 340] AH00418: Parent: Created child process 1396
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 1396:tid 380] AH00354: Child: Starting 64 worker threads.
+[Mon Nov 14 14:46:58.128530 2022] [mpm_winnt:notice] [pid 2556:tid 340] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Nov 14 14:47:00.159364 2022] [mpm_winnt:notice] [pid 1396:tid 380] AH00364: Child: All worker threads have exited.
+[Mon Nov 14 14:47:00.209372 2022] [mpm_winnt:notice] [pid 2556:tid 340] AH00430: Parent: Child process 1396 exited successfully.
+[Thu Jan 26 14:48:48.678544 2023] [mpm_winnt:notice] [pid 14972:tid 336] AH00455: Apache/2.4.54 (Win64) PHP/8.1.12 configured -- resuming normal operations
+[Thu Jan 26 14:48:48.678544 2023] [mpm_winnt:notice] [pid 14972:tid 336] AH00456: Apache Lounge VS16 Server built: Nov  2 2022 10:09:33
+[Thu Jan 26 14:48:48.678544 2023] [core:notice] [pid 14972:tid 336] AH00094: Command line: 'httpd -d C:/Users/\xe7\x9f\xb3\xe6\x9c\xa8\xe3\x80\x80\xe5\xae\x89\xe5\x84\xaa/jquery/apache'
+[Thu Jan 26 14:48:48.683544 2023] [mpm_winnt:notice] [pid 14972:tid 336] AH00418: Parent: Created child process 1560
+Apache server interrupted...
+023] [mpm_winnt:notice] [pid 1560:tid 364] AH00354: Child: Starting 64 worker threads.
+[Thu Jan 26 14:52:15.942893 2023] [mpm_winnt:notice] [pid 14972:tid 336] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Jan 26 14:52:17.968134 2023] [mpm_winnt:notice] [pid 1560:tid 364] AH00364: Child: All worker threads have exited.
+[Thu Jan 26 14:52:18.008696 2023] [mpm_winnt:notice] [pid 14972:tid 336] AH00430: Parent: Child process 1560 exited successfully.
+Starting the 'Apache2.4' service
+The 'Apache2.4' service is running.
+pm_winnt:notice] [pid 15896:tid 344] AH00455: Apache/2.4.54 (Win64) PHP/8.1.12 configured -- resuming normal operations
+[Thu Jan 26 15:16:07.512670 2023] [mpm_winnt:notice] [pid 15896:tid 344] AH00456: Apache Lounge VS16 Server built: Nov  2 2022 10:09:33
+[Thu Jan 26 15:16:07.512670 2023] [core:notice] [pid 15896:tid 344] AH00094: Command line: 'C:\\jquery\\apache\\bin\\httpd.exe -d C:/jquery/apache'
+[Thu Jan 26 15:16:07.517634 2023] [mpm_winnt:notice] [pid 15896:tid 344] AH00418: Parent: Created child process 10576
+[Thu Jan 26 15:16:07.956461 2023] [mpm_winnt:notice] [pid 10576:tid 344] AH00354: Child: Starting 64 worker threads.
+[Thu Jan 26 15:16:41.731627 2023] [mpm_winnt:notice] [pid 15896:tid 344] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Jan 26 15:17:11.744060 2023] [mpm_winnt:notice] [pid 15896:tid 344] AH00431: Parent: Forcing termination of child process 10576
+[Thu Jan 26 15:27:00.330540 2023] [mpm_winnt:notice] [pid 8356:tid 372] AH00455: Apache/2.4.54 (Win64) PHP/8.1.12 configured -- resuming normal operations
+[Thu Jan 26 15:27:00.331537 2023] [mpm_winnt:notice] [pid 8356:tid 372] AH00456: Apache Lounge VS16 Server built: Nov  2 2022 10:09:33
+[Thu Jan 26 15:27:00.331537 2023] [core:notice] [pid 8356:tid 372] AH00094: Command line: 'httpd -d C:/jquery/apache'
+[Thu Jan 26 15:27:00.333515 2023] [mpm_winnt:notice] [pid 8356:tid 372] AH00418: Parent: Created child process 8624
+Apache server interrupted...
+023] [mpm_winnt:notice] [pid 8624:tid 336] AH00354: Child: Starting 64 worker threads.
+[Thu Jan 26 15:31:58.872894 2023] [mpm_winnt:notice] [pid 8356:tid 372] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Jan 26 15:32:00.892710 2023] [mpm_winnt:notice] [pid 8624:tid 336] AH00364: Child: All worker threads have exited.
+[Thu Jan 26 15:32:00.922695 2023] [mpm_winnt:notice] [pid 8356:tid 372] AH00430: Parent: Child process 8624 exited successfully.
+[Thu Jan 26 15:43:45.462579 2023] [mpm_winnt:notice] [pid 9320:tid 380] AH00455: Apache/2.4.54 (Win64) PHP/8.1.12 configured -- resuming normal operations
+[Thu Jan 26 15:43:45.462579 2023] [mpm_winnt:notice] [pid 9320:tid 380] AH00456: Apache Lounge VS16 Server built: Nov  2 2022 10:09:33
+[Thu Jan 26 15:43:45.462579 2023] [core:notice] [pid 9320:tid 380] AH00094: Command line: 'httpd -d C:/jquery/apache'
+[Thu Jan 26 15:43:45.462579 2023] [mpm_winnt:notice] [pid 9320:tid 380] AH00418: Parent: Created child process 10620
+Apache server interrupted...
+023] [mpm_winnt:notice] [pid 10620:tid 336] AH00354: Child: Starting 64 worker threads.
+[Thu Jan 26 15:50:42.791312 2023] [mpm_winnt:notice] [pid 9320:tid 380] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+Apache server interrupted...
+[Thu Jan 26 15:50:50.877964 2023] [mpm_winnt:notice] [pid 10620:tid 336] AH00364: Child: All worker threads have exited.
+[Thu Jan 26 15:50:50.914835 2023] [mpm_winnt:notice] [pid 9320:tid 380] AH00430: Parent: Child process 10620 exited successfully.
+[Sat Jan 28 14:05:57.916202 2023] [mpm_winnt:notice] [pid 1028:tid 352] AH00455: Apache/2.4.54 (Win64) PHP/8.1.12 configured -- resuming normal operations
+[Sat Jan 28 14:05:57.919557 2023] [mpm_winnt:notice] [pid 1028:tid 352] AH00456: Apache Lounge VS16 Server built: Nov  2 2022 10:09:33
+[Sat Jan 28 14:05:57.919557 2023] [core:notice] [pid 1028:tid 352] AH00094: Command line: 'httpd -d C:/jquery/apache'
+[Sat Jan 28 14:05:57.921731 2023] [mpm_winnt:notice] [pid 1028:tid 352] AH00418: Parent: Created child process 10964
+Apache server interrupted...
+023] [mpm_winnt:notice] [pid 10964:tid 328] AH00354: Child: Starting 64 worker threads.
+[Sat Jan 28 14:09:54.527924 2023] [mpm_winnt:notice] [pid 1028:tid 352] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+Apache server interrupted...
+[Sat Jan 28 14:09:56.547027 2023] [mpm_winnt:notice] [pid 10964:tid 328] AH00364: Child: All worker threads have exited.
+[Sat Jan 28 14:09:56.589236 2023] [mpm_winnt:notice] [pid 1028:tid 352] AH00430: Parent: Child process 10964 exited successfully.
+[Sat Jan 28 14:15:51.020713 2023] [mpm_winnt:notice] [pid 16900:tid 356] AH00455: Apache/2.4.54 (Win64) PHP/8.1.12 configured -- resuming normal operations
+[Sat Jan 28 14:15:51.020713 2023] [mpm_winnt:notice] [pid 16900:tid 356] AH00456: Apache Lounge VS16 Server built: Nov  2 2022 10:09:33
+[Sat Jan 28 14:15:51.020713 2023] [core:notice] [pid 16900:tid 356] AH00094: Command line: 'httpd -d C:/jquery/apache'
+[Sat Jan 28 14:15:51.025711 2023] [mpm_winnt:notice] [pid 16900:tid 356] AH00418: Parent: Created child process 13052
+Apache server interrupted...
+023] [mpm_winnt:notice] [pid 13052:tid 348] AH00354: Child: Starting 64 worker threads.
+[Sat Jan 28 14:47:54.371421 2023] [php:error] [pid 13052:tid 1108] [client ::1:59198] script 'C:/jquery/apache/htdocs/index.php' not found or unable to stat, referer: http://localhost/
+[Sat Jan 28 14:48:25.228823 2023] [php:error] [pid 13052:tid 1112] [client ::1:59200] script 'C:/jquery/apache/htdocs/index.php' not found or unable to stat, referer: http://localhost/
+[Sat Jan 28 14:49:23.912573 2023] [php:error] [pid 13052:tid 1108] [client ::1:59211] script 'C:/jquery/apache/htdocs/index.php' not found or unable to stat, referer: http://localhost/
+[Sat Jan 28 14:51:33.782416 2023] [php:error] [pid 13052:tid 1108] [client ::1:59235] script 'C:/jquery/apache/htdocs/complete.php' not found or unable to stat, referer: http://localhost/confirm.php
+[Sat Jan 28 14:53:21.989753 2023] [php:error] [pid 13052:tid 1112] [client ::1:59247] script 'C:/jquery/apache/htdocs/index.php' not found or unable to stat, referer: http://localhost/
+[Sat Jan 28 14:54:44.226151 2023] [php:error] [pid 13052:tid 1108] [client ::1:59249] script 'C:/jquery/apache/htdocs/complete.php' not found or unable to stat, referer: http://localhost/confirm.php
+[Sat Jan 28 14:56:19.063512 2023] [php:error] [pid 13052:tid 1112] [client ::1:59263] script 'C:/jquery/apache/htdocs/complete.php' not found or unable to stat, referer: http://localhost/confirm.php
+[Sat Jan 28 14:56:58.262407 2023] [mpm_winnt:notice] [pid 16900:tid 356] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+[Sat Jan 28 14:57:28.272872 2023] [mpm_winnt:notice] [pid 16900:tid 356] AH00431: Parent: Forcing termination of child process 13052
+[Sat Jan 28 18:12:15.632142 2023] [mpm_winnt:notice] [pid 12556:tid 376] AH00455: Apache/2.4.54 (Win64) PHP/8.1.12 configured -- resuming normal operations
+[Sat Jan 28 18:12:15.632797 2023] [mpm_winnt:notice] [pid 12556:tid 376] AH00456: Apache Lounge VS16 Server built: Nov  2 2022 10:09:33
+[Sat Jan 28 18:12:15.632797 2023] [core:notice] [pid 12556:tid 376] AH00094: Command line: 'httpd -d C:/jquery/apache'
+[Sat Jan 28 18:12:15.638478 2023] [mpm_winnt:notice] [pid 12556:tid 376] AH00418: Parent: Created child process 16120
+Apache server interrupted...
+023] [mpm_winnt:notice] [pid 16120:tid 328] AH00354: Child: Starting 64 worker threads.
+[Sat Jan 28 18:14:05.247988 2023] [php:error] [pid 16120:tid 1108] [client ::1:59667] script 'C:/jquery/apache/htdocs/complete.php' not found or unable to stat, referer: http://localhost/confirm.php
+[Sat Jan 28 18:18:56.651267 2023] [mpm_winnt:notice] [pid 12556:tid 376] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+Apache server interrupted...
+[Sat Jan 28 18:18:58.677312 2023] [mpm_winnt:notice] [pid 16120:tid 328] AH00364: Child: All worker threads have exited.
+[Sat Jan 28 18:18:58.751999 2023] [mpm_winnt:notice] [pid 12556:tid 376] AH00430: Parent: Child process 16120 exited successfully.
+[Mon Jan 30 10:04:44.674219 2023] [mpm_winnt:notice] [pid 4140:tid 316] AH00455: Apache/2.4.54 (Win64) PHP/8.1.12 configured -- resuming normal operations
+[Mon Jan 30 10:04:44.674219 2023] [mpm_winnt:notice] [pid 4140:tid 316] AH00456: Apache Lounge VS16 Server built: Nov  2 2022 10:09:33
+[Mon Jan 30 10:04:44.674219 2023] [core:notice] [pid 4140:tid 316] AH00094: Command line: 'C:\\jquery\\apache\\bin\\httpd.exe -d C:/jquery/apache'
+[Mon Jan 30 10:04:44.674219 2023] [mpm_winnt:notice] [pid 4140:tid 316] AH00418: Parent: Created child process 7472
+[Mon Jan 30 10:04:46.793198 2023] [mpm_winnt:notice] [pid 7472:tid 332] AH00354: Child: Starting 64 worker threads.
+[Mon Jan 30 12:27:57.209037 2023] [php:error] [pid 7472:tid 1152] [client ::1:58487] script 'C:/jquery/apache/htdocs/complete.php' not found or unable to stat, referer: http://localhost/confirm.php
+[Mon Jan 30 13:24:03.562878 2023] [mpm_winnt:notice] [pid 4140:tid 316] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Jan 30 13:24:05.581263 2023] [mpm_winnt:notice] [pid 7472:tid 332] AH00364: Child: All worker threads have exited.
+[Mon Jan 30 13:24:05.612504 2023] [mpm_winnt:notice] [pid 4140:tid 316] AH00430: Parent: Child process 7472 exited successfully.
+[Mon Jan 30 13:24:33.226897 2023] [mpm_winnt:notice] [pid 4144:tid 320] AH00455: Apache/2.4.54 (Win64) PHP/8.1.12 configured -- resuming normal operations
+[Mon Jan 30 13:24:33.226897 2023] [mpm_winnt:notice] [pid 4144:tid 320] AH00456: Apache Lounge VS16 Server built: Nov  2 2022 10:09:33
+[Mon Jan 30 13:24:33.226897 2023] [core:notice] [pid 4144:tid 320] AH00094: Command line: 'C:\\jquery\\apache\\bin\\httpd.exe -d C:/jquery/apache'
+[Mon Jan 30 13:24:33.236573 2023] [mpm_winnt:notice] [pid 4144:tid 320] AH00418: Parent: Created child process 7084
+[Mon Jan 30 13:24:34.246853 2023] [mpm_winnt:notice] [pid 7084:tid 340] AH00354: Child: Starting 64 worker threads.
+The 'Apache2.4' service is restarting.
+[Mon Jan 30 13:30:12.955847 2023] [mpm_winnt:notice] [pid 4144:tid 320] AH00424: Parent: Received restart signal -- Restarting the server.
+[Mon Jan 30 13:30:12.989787 2023] [mpm_winnt:notice] [pid 4144:tid 320] AH00455: Apache/2.4.54 (Win64) PHP/8.1.12 configured -- resuming normal operations
+[Mon Jan 30 13:30:12.989787 2023] [mpm_winnt:notice] [pid 4144:tid 320] AH00456: Apache Lounge VS16 Server built: Nov  2 2022 10:09:33
+[Mon Jan 30 13:30:12.989787 2023] [core:notice] [pid 4144:tid 320] AH00094: Command line: 'C:\\jquery\\apache\\bin\\httpd.exe -d C:/jquery/apache'
+[Mon Jan 30 13:30:12.993936 2023] [mpm_winnt:notice] [pid 4144:tid 320] AH00418: Parent: Created child process 3656
+[Mon Jan 30 13:30:13.969361 2023] [mpm_winnt:notice] [pid 3656:tid 364] AH00354: Child: Starting 64 worker threads.
+[Mon Jan 30 13:30:19.402813 2023] [mpm_winnt:notice] [pid 7084:tid 340] AH00364: Child: All worker threads have exited.
+[Mon Jan 30 13:30:37.132653 2023] [php:error] [pid 3656:tid 1148] [client ::1:63579] script 'C:/jquery/apache/htdocs/index.php' not found or unable to stat, referer: http://localhost/
+[Mon Jan 30 13:30:44.848308 2023] [php:error] [pid 3656:tid 1148] [client ::1:63579] script 'C:/jquery/apache/htdocs/index.php' not found or unable to stat, referer: http://localhost/
+[Mon Jan 30 13:31:31.287452 2023] [mpm_winnt:notice] [pid 4144:tid 320] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Jan 30 13:31:39.226838 2023] [mpm_winnt:notice] [pid 3656:tid 364] AH00364: Child: All worker threads have exited.
+[Mon Jan 30 13:31:39.254865 2023] [mpm_winnt:notice] [pid 4144:tid 320] AH00430: Parent: Child process 3656 exited successfully.
+[Mon Jan 30 14:10:04.184129 2023] [mpm_winnt:notice] [pid 8616:tid 360] AH00455: Apache/2.4.54 (Win64) PHP/8.1.12 configured -- resuming normal operations
+[Mon Jan 30 14:10:04.184129 2023] [mpm_winnt:notice] [pid 8616:tid 360] AH00456: Apache Lounge VS16 Server built: Nov  2 2022 10:09:33
+[Mon Jan 30 14:10:04.184129 2023] [core:notice] [pid 8616:tid 360] AH00094: Command line: 'httpd -d C:/Contact-Form/jquery/apache'
+[Mon Jan 30 14:10:04.189125 2023] [mpm_winnt:notice] [pid 8616:tid 360] AH00418: Parent: Created child process 4516
+Apache server interrupted...
+023] [mpm_winnt:notice] [pid 4516:tid 328] AH00354: Child: Starting 64 worker threads.
+[Mon Jan 30 16:14:04.247652 2023] [php:error] [pid 4516:tid 1096] [client ::1:65355] script 'C:/Contact-Form/jquery/apache/htdocs/form.php' not found or unable to stat, referer: http://localhost/
+[Mon Jan 30 16:14:23.659715 2023] [php:error] [pid 4516:tid 1112] [client ::1:65356] script 'C:/Contact-Form/jquery/apache/htdocs/index.php' not found or unable to stat, referer: http://localhost/
+[Mon Jan 30 17:02:31.841716 2023] [php:error] [pid 4516:tid 1112] [client ::1:49986] script 'C:/Contact-Form/jquery/apache/htdocs/form.html' not found or unable to stat, referer: http://localhost/
+[Mon Jan 30 17:04:56.570965 2023] [mpm_winnt:notice] [pid 8616:tid 360] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Jan 30 17:04:58.577247 2023] [mpm_winnt:notice] [pid 4516:tid 328] AH00364: Child: All worker threads have exited.
+[Mon Jan 30 17:04:58.618050 2023] [mpm_winnt:notice] [pid 8616:tid 360] AH00430: Parent: Child process 4516 exited successfully.
+[Mon Jan 30 19:20:46.338984 2023] [mpm_winnt:notice] [pid 15732:tid 332] AH00455: Apache/2.4.54 (Win64) PHP/8.1.12 configured -- resuming normal operations
+[Mon Jan 30 19:20:46.339981 2023] [mpm_winnt:notice] [pid 15732:tid 332] AH00456: Apache Lounge VS16 Server built: Nov  2 2022 10:09:33
+[Mon Jan 30 19:20:46.339981 2023] [core:notice] [pid 15732:tid 332] AH00094: Command line: 'httpd -d C:/Contact-Form/jquery/apache'
+[Mon Jan 30 19:20:46.342160 2023] [mpm_winnt:notice] [pid 15732:tid 332] AH00418: Parent: Created child process 13600
+Apache server interrupted...
+023] [mpm_winnt:notice] [pid 13600:tid 340] AH00354: Child: Starting 64 worker threads.
+[Tue Jan 31 08:05:28.899948 2023] [mpm_winnt:notice] [pid 15732:tid 332] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+Apache server interrupted...
+[Tue Jan 31 08:05:30.911202 2023] [mpm_winnt:notice] [pid 13600:tid 340] AH00364: Child: All worker threads have exited.
+[Tue Jan 31 08:05:31.019879 2023] [mpm_winnt:notice] [pid 15732:tid 332] AH00430: Parent: Child process 13600 exited successfully.
+[Tue Jan 31 08:07:34.677946 2023] [mpm_winnt:notice] [pid 2872:tid 372] AH00455: Apache/2.4.54 (Win64) PHP/8.1.12 configured -- resuming normal operations
+[Tue Jan 31 08:07:34.677946 2023] [mpm_winnt:notice] [pid 2872:tid 372] AH00456: Apache Lounge VS16 Server built: Nov  2 2022 10:09:33
+[Tue Jan 31 08:07:34.678941 2023] [core:notice] [pid 2872:tid 372] AH00094: Command line: 'httpd -d C:/Contact-Form/jquery/apache'
+[Tue Jan 31 08:07:34.686599 2023] [mpm_winnt:notice] [pid 2872:tid 372] AH00418: Parent: Created child process 15516
+[Tue Jan 31 08:07:35.660593 2023] [mpm_winnt:notice] [pid 15516:tid 340] AH00354: Child: Starting 64 worker threads.
+[Tue Jan 31 11:36:40.659143 2023] [php:error] [pid 15516:tid 1104] [client ::1:60663] script 'C:/Contact-Form/jquery/apache/htdocs/myform.php' not found or unable to stat, referer: http://localhost/myform.php
+[Tue Jan 31 11:36:42.359139 2023] [php:error] [pid 15516:tid 1104] [client ::1:60663] script 'C:/Contact-Form/jquery/apache/htdocs/myform.php' not found or unable to stat, referer: http://localhost/
+[Tue Jan 31 13:34:01.771776 2023] [php:error] [pid 15516:tid 1104] [client ::1:52420] script 'C:/Contact-Form/jquery/apache/htdocs/form.php' not found or unable to stat, referer: http://localhost/
+[Tue Jan 31 14:10:31.167373 2023] [php:error] [pid 15516:tid 1096] [client ::1:63837] script 'C:/Contact-Form/jquery/apache/htdocs/confirm.php' not found or unable to stat, referer: http://localhost/form.php
